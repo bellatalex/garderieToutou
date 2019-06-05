@@ -2126,3 +2126,7 @@ a:hover.tooltips span {
 	}
 }
 
+#tarteaucitronAlertBig #tarteaucitronCloseAlert, #tarteaucitronAlertBig #tarteaucitronPersonalize, #tarteaucitron #tarteaucitronPrivacyUrl{
+    background: #2ad2c9 !important;
+}
+
