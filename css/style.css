@@ -2130,3 +2130,13 @@ a:hover.tooltips span {
     background: #2ad2c9 !important;
 }
 
+.mentions{
+    color: #FFFFFF;
+    text-decoration: none;
+    display: block;
+    padding: 0;
+    font-weight: 500;
+    font-size: 0.9em;
+    text-transform: uppercase;
+}
+
