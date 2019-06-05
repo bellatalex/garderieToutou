@@ -1288,7 +1288,7 @@ a:hover.tooltips span {
 	 text-decoration: underline;
 }
 #toTop {
-  display: none;
+  display: none !important;
   text-decoration: none;
   position: fixed;
   bottom: 10px;
@@ -2207,3 +2207,4 @@ a:hover.tooltips span {
 a:hover, a:focus{
     color: #2ad2c9 !important;
 }
+
