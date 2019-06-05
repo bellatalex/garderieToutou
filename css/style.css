@@ -415,7 +415,7 @@ label{
 h3.tittle{
 font-size: 3em;
     font-weight: 400;
-    color: #2ad2c9;
+    color: #020202;
 }
 .about-top {
     margin-top: 1em;
@@ -672,7 +672,7 @@ h3.tittle.two {
 /*--health--*/
 .health-care {
        padding: 10em 0 4em 0;
-    background-color: #F7f7f7;
+    background-color: #6CF3EB;
 }
 .health-text h4 {
     padding: 0 0 10px 0;
