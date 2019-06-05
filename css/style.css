@@ -2204,3 +2204,6 @@ a:hover.tooltips span {
     margin-bottom: 15px;
 }
 
+a:hover, a:focus{
+    color: #2ad2c9 !important;
+}
