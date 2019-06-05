@@ -5,7 +5,7 @@ License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 html, body{
- font-family: 'Raleway', sans-serif;
+ font-family: 'Arial', sans-serif;
   font-size: 100%;
   background: #FFf;
 }
@@ -28,7 +28,7 @@ input[type="button"],input[type="submit"],.port-grid ,.text p,.text h3{
 }
 h1,h2,h3,h4,h5,h6{
 	margin:0;	
-font-family: 'Lobster', cursive;
+font-family: 'Arial', cursive;
 }	
 p{
 	margin:0;
@@ -52,7 +52,7 @@ label{
     font-size: 3.3em;
     font-weight: 400;
     color: #2ad2c9;
-    font-family: 'Lobster', cursive;
+    font-family: 'Arial', cursive;
 }
 .logo  a h1:hover{
  color:#2ad2c9;	
