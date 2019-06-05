@@ -410,7 +410,7 @@ label{
     min-height:137px;
 }
 .about {
-    padding:12em 0 4em 0;
+    padding:3em 0 4em 0 !important;
 }
 h3.tittle{
 font-size: 3em;
