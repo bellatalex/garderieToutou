@@ -1192,6 +1192,10 @@ a.tooltips {
   position: relative;
   display: inline;
 }
+a.tooltips2 {
+    position: relative;
+    display: inline;
+}
 ul.social-icons li:nth-child(5){
   margin: 0;
 }
@@ -1213,6 +1217,47 @@ a.tooltips span {
 	-webkit-border-radius: 6px;
 	    font-size: 0.9em;
  }
+a.tooltips2 span {
+    position: absolute;
+    width:200px;
+    color: #FFFFFF;
+    background: #2C3E50;
+    height: 50px;
+    line-height: 19px;
+    text-align: center;
+    visibility: hidden;
+    border-radius: 6px;
+    padding: 0.5em;
+    top: 40px;
+    padding: 0.5em;
+    -o- border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    font-size: 0.9em;
+    text-transform: none !important;
+}
+
+/*a.tooltips2 span:after {*/
+/*    content: '';*/
+/*    position: absolute;*/
+/*    top: 100%;*/
+/*    left: 38%;*/
+/*    margin-left: -8px;*/
+/*    width: 0;*/
+/*    height: 0;*/
+/*    border-top: 10px solid #2C3E50;*/
+/*    border-right: 8px solid transparent;*/
+/*    border-left: 8px solid transparent;*/
+/*}*/
+a:hover.tooltips2 span {
+    visibility: visible;
+    opacity: 0.8;
+    bottom: 100px;
+    left: 50%;
+    margin-left: -76px;
+    z-index: 999;
+}
+
 a.tooltips span:after {
   content: '';
   position: absolute;
